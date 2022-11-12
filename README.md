@@ -1,5 +1,7 @@
 # Zadanie domowe 1
 
+<a href="https://sim-mag.github.io/goit-markup-hw-01/">Podgląd strony</a>
+
 ### Projekt
 <ol>
   
